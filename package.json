@@ -1,5 +1,5 @@
 {
-  "name": "@Sumitbk/role-app",
+  "name": "@sumit-005/role-app",
   "version": "1.0.0",
   "description": "test packages",
   "main": "lib/index.js",
@@ -9,14 +9,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Sumitbk/role-app.git"
+    "url": "git+https://github.com/sumit-005/role-app.git"
   },
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/Sumitbk/role-app/issues"
+    "url": "https://github.com/sumit-005/role-app/issues"
   },
-  "homepage": "https://github.com/Sumitbk/role-app#readme",
+  "homepage": "https://github.com/sumit-005/role-app#readme",
   "devDependencies": {
     "@babel/core": "^7.7.5",
     "@babel/preset-env": "^7.7.6",
