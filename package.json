@@ -1,0 +1,39 @@
+{
+  "name": "role-app",
+  "version": "1.0.0",
+  "description": "test packages",
+  "main": "lib/index.js",
+  "types": "lib",
+  "scripts": {
+    "build": "tsc -p ."
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Sumitbk/role-app.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Sumitbk/role-app/issues"
+  },
+  "homepage": "https://github.com/Sumitbk/role-app#readme",
+  "devDependencies": {
+    "@babel/core": "^7.7.5",
+    "@babel/preset-env": "^7.7.6",
+    "@babel/preset-react": "^7.7.4",
+    "@casl/ability": "^4.1.4",
+    "@casl/react": "^2.1.0",
+    "@types/react": "^16.9.35",
+    "babel-loader": "^8.0.6",
+    "css-loader": "^3.3.0",
+    "style-loader": "^1.0.1",
+    "typescript": "^3.9.5",
+    "webpack": "^4.41.2",
+    "webpack-cli": "^3.3.10"
+  },
+  "dependencies": {
+    "@material/react-button": "^0.15.0",
+    "prop-types": "^15.7.2",
+    "react": "^16.12.0"
+  }
+}
